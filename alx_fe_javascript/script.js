@@ -17,6 +17,7 @@ document.addEventListener('DOMContentLoaded', () => {
             category: 'happiness'
         }
     ] 
+    
     const quoteDisplay = document.getElementById("quoteDisplay"); 
     const newQuoteText = document.getElementById("newQuoteText"); 
     const newQuoteCategory = document.getElementById("newQuoteCategory"); 
